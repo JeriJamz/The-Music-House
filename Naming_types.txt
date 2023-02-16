@@ -1,0 +1,45 @@
+#da naming convention make it a lil confusing, but this is really data types
+
+									VALUE TYPES:
+							Simple types:
+					Signed Intergal:
+sbyte(Fuckin, ok ig this is 8-bits)(maybe a bit), short, int, long
+						   unsigned:
+byte(wtf, gotta be unsigned), ushort, uint, unlong
+							unicode:
+char(cool)
+		 IEE Floating Point(really):
+float, double#is double tech a high-point float number and is decimal only
+allowed in 32-byte reg
+			 High-Percision decimal:
+decimal
+							boolean:
+bool
+								   Enum:
+	 User-defined types of the form:
+enum E{....}
+						   Struct Types:
+     User-defined types of the form:	
+struct S{...}
+							 Null Types:
+	Extension of all other values types with:
+null value
+
+							 	Refernce Types:
+							 Class Types:
+	Ultimate base class of all other types:
+objects#Hello{}
+					  Unicode Strings:
+string
+	User-Defined types of the form:
+class C{...}
+						Interface Types:
+	User-Defined Types of the form class C:
+interface I{...}
+							Array Types:
+			Single/Multi dimensional:
+int[], int[,]
+						 Delagate Types:
+	  User-Defined Types of the form:
+delagate int D(...)
+
