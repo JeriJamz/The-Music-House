@@ -1,0 +1,24 @@
+#*This is some random Cshar notes. Lets see where we got*#
+Lil off key:
+#you can use the commmand line csc(Free Enterprise) program.cs to run 
+#or dotnet run.
+
+This is basically C:
+	it got header file:
+		"using" is a header file. it calls for da system."System" 
+namespaces provide a heirarchical means of organization.:
+	They can contain other namespaces and types
+#low key name spaces are just header files. Wonder what other kind they got
+#*
+Console refers to the program(System.Program(Console).WriteLine("Makes so much more sense"))
+*#
+	when "using","namespace", namespaces can allow for the use of shorthands:
+		System.Console.WriteLine, can be used as Console.WriteLine
+
+You can really just type#*print(Hello Wrld), this is why pie the best OOL*#, you gotta class it.:
+	#like in Hello{} in ellowrld.cs
+	It has a method, "static void method", now its static#*I dont think it take arguments*# and its I dont know wat void mean
+#TECH: if I got it right, you can call(refer) to method(Hello{}) with "this"
+
+
+
