@@ -1,0 +1,57 @@
+#back at it again
+C-# notes pt.2
+
+C# uses type decleration to create new types:
+	this specify the name,
+	and member of the type
+	five of the "types" in C# are user-defined:
+		(1)Class Types
+		(2)Struct Types
+		(3)Interface Types
+		(4)Enum Types
+		(5)Delegate Types
+		A Class Type:
+			A Data Structure that Contains Other Data Members(Fields) and
+Function Members(Method, Propertiesm and others)
+			class support one instances(BOOO, you can have a hunnid of em in
+py),#comma means it part of the same clause
+			 and polymorphism/ mechanism/,
+			 Where derived classes can extend and specialized base classes
+		A Struct Type:
+			Similar to Classes/ the real diffrence is this is for values
+only#idk I might have to google later. Seems like this is a C# term
+			I think this is more of an "Object", also this cant take an
+user-defined types
+		An Interface Type:
+			The HeadAche. If I am reading this right this is more of a class
+Class, it can b constructed like a class but it can take on multiple classes,
+struct types other interfaces 
+		A delegate Type:
+			This is a refernce to Methods with a certains argument:
+				This has a particular parameter list and return type
+			Delegate make it where you can treat methods as entities,
+			also they can be pass as variables
+			#*The book says that this is like the file-pointer in C, So I
+guess you can use this to read other files. Idk yet, I gotta explore some
+more.*#
+#Class, Structs, Interface, and Delegate Types are Support Generics and can
+Parameterized with other types
+		An Enum Types:
+			This is a distinct type with named constant.
+			every Enum Types has a underlying Types:
+				It must be one of the 8 int types:
+					the Enum value type must be the same as the underlying Int
+value
+		C# supports single and multi-demensional arrays of any type:
+			unlike User-defined Type, arrays doesn't have to declared before
+you use them:
+				They're called with a certain value type and square bracket
+		Nullable Types also do not have to be declared:
+			Every Value has an oppiste and its Null
+
+				
+
+
+
+
+

@@ -1,0 +1,7 @@
+Still cant carry a tune in a bucket(C# notes 3)
+...#*Cont*# this is still talking about types
+Types in C# are unified,
+which means any value in a type can be treated an object
+Every Type in C# comes from the object type
+#its THE base class
+
